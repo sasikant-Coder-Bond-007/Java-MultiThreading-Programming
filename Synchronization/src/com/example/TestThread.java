@@ -21,3 +21,23 @@ public class TestThread {
 	}
 
 }
+
+/*
+ Output :
+	
+	Thread Thread - 1 execution started!
+	Thread Thread - 2 execution started!
+	Counter  ---  1
+	Counter  ---  2
+	Counter  ---  3
+	Counter  ---  4
+	Counter  ---  5
+	Thread Thread - 1 execution finished.
+	Counter  ---  1
+	Counter  ---  2
+	Counter  ---  3
+	Counter  ---  4
+	Counter  ---  5
+	Thread Thread - 2 execution finished.
+
+*/
